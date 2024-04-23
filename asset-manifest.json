@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/isahil.github.io/hvac-north-pole/public/static/css/main.ae42ac5f.css",
-    "main.js": "/isahil.github.io/hvac-north-pole/public/static/js/main.46f7b935.js",
-    "index.html": "/isahil.github.io/hvac-north-pole/public/index.html",
-    "main.ae42ac5f.css.map": "/isahil.github.io/hvac-north-pole/public/static/css/main.ae42ac5f.css.map",
-    "main.46f7b935.js.map": "/isahil.github.io/hvac-north-pole/public/static/js/main.46f7b935.js.map"
+    "main.css": "/hvac-north-pole/public/static/css/main.ae42ac5f.css",
+    "main.js": "/hvac-north-pole/public/static/js/main.46f7b935.js",
+    "index.html": "/hvac-north-pole/public/index.html",
+    "main.ae42ac5f.css.map": "/hvac-north-pole/public/static/css/main.ae42ac5f.css.map",
+    "main.46f7b935.js.map": "/hvac-north-pole/public/static/js/main.46f7b935.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
