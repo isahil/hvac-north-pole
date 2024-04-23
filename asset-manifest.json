@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/isahil.github.io/hvac-north-pole/static/css/main.ae42ac5f.css",
+    "main.js": "/isahil.github.io/hvac-north-pole/static/js/main.46f7b935.js",
+    "index.html": "/isahil.github.io/hvac-north-pole/index.html",
+    "main.ae42ac5f.css.map": "/isahil.github.io/hvac-north-pole/static/css/main.ae42ac5f.css.map",
+    "main.46f7b935.js.map": "/isahil.github.io/hvac-north-pole/static/js/main.46f7b935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.46f7b935.js"
+  ]
+}
