@@ -28,8 +28,8 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#skills" className="page-scroll">
-                Features
+              <a href="#features" className="page-scroll">
+                Skills
               </a>
             </li>
             <li>
